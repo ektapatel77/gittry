@@ -1,4 +1,4 @@
-import os
+zxczxcczczcczcimport os
 import subprocess
 
 for top, dirs, files in os.walk('/home/pdf'):
